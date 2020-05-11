@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;700&family=IBM+Plex+Serif:ital@0;1&display=swap');
+
+@import "tailwindcss/base";
+
+@import "./base.css";
+
+@import "./home.css";
+
+@import "./generated.css";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import "./contact-form-7.css";
+
+@import "./photoswipe/photoswipe.css";
+
+@import "./photoswipe/default-skin/default-skin.css";

@@ -1,0 +1,33 @@
+.generated {
+    @apply font-serif text-base leading-normal text-gray-900;
+
+    max-width: 40rem;
+
+    p {
+        @apply mb-4;
+    }
+
+    strong {
+        @apply font-sans font-bold text-gray-700;
+    }
+
+    a {
+        @apply text-gray-700 underline;
+    }
+
+    a:hover {
+        @apply text-red-800;
+    }
+
+    ul {
+        @apply list-disc list-outside pl-6 mb-4;
+    }
+
+    h2 {
+        @apply font-sans font-bold text-xl mb-4 text-black;
+    }
+
+    h3 {
+        @apply font-sans font-bold text-lg mb-4 text-black;
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "cuboctaedro/maja",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dkottas",
+            "email": "info@cuboctaedro.eu"
+        }
+    ],
+    "require": {}
+}
